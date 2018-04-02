@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.peterfarber</groupId>
-  <artifactId>TRSM_JAVA_PROJECTa</artifactId>
+  <artifactId>TRSM_JAVA_PROJECT</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>TRSM_JAVA_PROJECT Maven Webapp</name>
